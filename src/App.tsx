@@ -12,7 +12,7 @@ export function App() {
 
   return (
     <>
-      <h1>OP Eth Denver Hackathon</h1>
+      <h1>Attestation Explorer</h1>
 
       {/** @see https://www.rainbowkit.com/docs/connect-button */}
       <ConnectButton />
